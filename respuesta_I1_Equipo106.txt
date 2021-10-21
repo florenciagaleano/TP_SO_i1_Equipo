@@ -5,3 +5,6 @@ Florencia Galeano
 Respuestas:
 a. Sí
 b.Sí
+c. Si
+d. Principalmente via WhatsApp (No juzgueis fue por conveniencia)
+e. Por el momento, via commits, aunque seguro existe una mejor manera de dejar registrado las acciones de cada usuario que contribuye
